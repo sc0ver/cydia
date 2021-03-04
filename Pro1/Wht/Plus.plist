@@ -11,38 +11,35 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>هنا الدومين/Pro1/Wht/WhatsApp++.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>url</key>
-					<string>هنا الدومين/Pro1/img/Wht.png</string>
+					<string>https://file.ipa-apps.me/ipa/Watusi2_lol.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
-					<false/>
+					<true/>
 					<key>url</key>
-					<string>هنا الدومين/Pro1/img/Wht.png</string>
+					<string>https://ipa-apps.me/Images/whatsapp.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>tv.shou.airshou.hello</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>net.whatsapp.WhatsApp</string>
+				<string>ipa-apps.me.Watusi2</string>
 				<key>bundle-version</key>
-				<string>2.16.9</string>
+				<string>7.4.1</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>WhatsApp+</string>
 				<key>title</key>
-				<string>
-</string>
+				<string>Watusi2</string>
 			</dict>
 		</dict>
 	</array>
