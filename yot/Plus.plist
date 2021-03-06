@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>ipa-apps.me.YTPls</string>
+				<string>YTPls</string>
 				<key>bundle-version</key>
 				<string>7.4.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>YT++2</string>
+				<string>YT+</string>
 			</dict>
 		</dict>
 	</array>
