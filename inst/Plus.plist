@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>ipa-apps.me.Rocket</string>
+				<string>Rocket</string>
 				<key>bundle-version</key>
 				<string>7.4.1</string>
 				<key>kind</key>
